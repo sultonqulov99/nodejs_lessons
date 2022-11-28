@@ -1,0 +1,18 @@
+[
+    {
+        "foodId": 1,
+        "foodName": "manti",
+        "foodImg": "../img"
+    },
+    {
+        "foodId": 2,
+        "foodName": "somsa",
+        "foodImg": "../img"
+    },
+    {
+        "foodId": 3,
+        "foodName": "palov",
+        "foodImg": "../img"
+    }
+
+]

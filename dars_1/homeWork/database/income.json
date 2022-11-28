@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "amount": "700",
+        "purpose": "oylik",
+        "date": "2022-03-26"
+    },
+    {
+        "id": 2,
+        "amount": "40",
+        "purpose": "oyqkiyim",
+        "date": "2022-03-26"
+    },
+    {
+        "id": 3,
+        "amount": "350",
+        "purpose": "moyka",
+        "date": "2022-03-26"
+    }
+]

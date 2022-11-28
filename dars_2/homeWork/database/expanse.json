@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "amount": "900",
+        "purpose": "clothes",
+        "date": "2022-03-26"
+    },
+    {
+        "id": 2,
+        "amount": "1000",
+        "purpose": "products",
+        "date": "2022-03-26"
+    },
+    {
+        "id": 3,
+        "amount": "200",
+        "purpose": "taxi",
+        "date": "2022-03-26"
+    },
+    {
+        "id": 4,
+        "amount": "50",
+        "purpose": "cook",
+        "date": "2022-03-26"
+    },
+    {
+        "id": 5,
+        "amount": "100",
+        "purpose": "fotball",
+        "date": "2022-03-26"
+    },
+    {
+        "id": 6,
+        "amount": "400",
+        "purpose": "interest",
+        "date": "2022-03-26"
+    }
+]

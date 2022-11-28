@@ -1,0 +1,17 @@
+[
+    {
+        "userId": 1,
+        "userName": "Akbar",
+        "contact": "+99892344556"
+    },
+    {
+        "userId": 2,
+        "userName": "abror",
+        "contact": "+998975661099"
+    },
+    {
+        "userId": 3, 
+        "userName": "Qahramon",
+        "contact": "+99892344556"
+    }
+]

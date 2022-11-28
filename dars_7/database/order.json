@@ -1,0 +1,56 @@
+[
+    {
+        "orderId": 3,
+        "user": [
+            {
+                "userId": 3,
+                "userName": "abrorbek",
+                "contact": "+998975661099"
+            }
+        ],
+        "food": [
+            {
+                "foodId": 3,
+                "foodName": "palov",
+                "foodImg": "../img"
+            }
+        ],
+        "count": 5
+    },
+    {
+        "orderId": 4,
+        "user": [
+            {
+                "userId": 1,
+                "userName": "ali",
+                "contact": "+998975661099"
+            }
+        ],
+        "food": [
+            {
+                "foodId": 3,
+                "foodName": "palov",
+                "foodImg": "../img"
+            }
+        ],
+        "count": 1
+    },
+    {
+        "orderId": 6,
+        "user": [
+            {
+                "userId": 1,
+                "userName": "ali",
+                "contact": "+998975661099"
+            }
+        ],
+        "food": [
+            {
+                "foodId": 3,
+                "foodName": "palov",
+                "foodImg": "../img"
+            }
+        ],
+        "count": 7
+    }
+]
